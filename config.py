@@ -106,8 +106,8 @@ METRICS_INFO = {
 }
 
 # LLM Model Priority
-GEMINI_MODEL_PRIMARY = "gemini-2.5-flash"
-GEMINI_MODEL_SECONDARY = "gemini-2.0flash"  
+GEMINI_MODEL_PRIMARY = "gemini-3-flash-preview"
+GEMINI_MODEL_SECONDARY = "gemini-2.5-flash"  
 LLM_TEMPERATURE = 0.7
 
 # Rating categories for LLM recommendation
